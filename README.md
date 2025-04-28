@@ -15,3 +15,16 @@ Before diving into models, it's important to understand how speech and audio sig
 - 📘 **"Fundamentals of Speech Recognition"** by Lawrence Rabiner
 
 
+
+## 🧠 Step 2: Classical ASR and Acoustic Modeling
+
+### 1. HMMs in Speech Recognition
+- ➤ **A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition**  
+- ⏳ *L.R. Rabiner, 1989*  
+- 📜 Gold-standard introduction to HMMs in ASR.
+
+### 2. Deep Neural Nets for Acoustic Modeling
+- ➤ **Deep Neural Networks for Acoustic Modeling in Speech Recognition**  
+- ⏳ *G. Hinton et al., 2012*  
+- 📜 First major shift from HMMs to DNNs in ASR.
+
