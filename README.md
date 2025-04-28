@@ -15,6 +15,7 @@ Before diving into models, it's important to understand how speech and audio sig
 - 📘 **"Fundamentals of Speech Recognition"** by Lawrence Rabiner
 
 
+---
 
 ## 🧠 Step 2: Classical ASR and Acoustic Modeling
 
