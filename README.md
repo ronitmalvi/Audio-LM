@@ -29,3 +29,31 @@ Before diving into models, it's important to understand how speech and audio sig
 - ⏳ *G. Hinton et al., 2012*  
 - 📜 First major shift from HMMs to DNNs in ASR.
 
+
+---
+
+## 🗣️ Step 3: End-to-End ASR (Speech-to-Text)
+
+### 1. Listen, Attend and Spell (LAS)
+- ➤ **Listen, Attend and Spell**  
+- ⏳ *Chan et al., 2015*  
+- 🎯 Attention-based encoder-decoder for ASR.
+
+### 2. Deep Speech 2
+- ➤ **Deep Speech 2: End-to-End Speech Recognition in English and Mandarin**  
+- ⏳ *Baidu Research, 2015*  
+- 🎯 Big-data focused, robust end-to-end ASR system.
+
+### 3. Wav2Vec & Wav2Vec 2.0
+- ➤ **wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations**  
+- ⏳ *Baevski et al., 2020 (Facebook AI)*  
+- 🎯 Major shift: Self-supervised learning (SSL) for speech modeling.
+
+### 4. HuBERT
+- ➤ **HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units**  
+- ⏳ *Hsu et al., 2021*  
+- 🎯 Improves over Wav2Vec using BERT-style masked prediction.
+
+
+---
+
