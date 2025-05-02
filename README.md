@@ -30,12 +30,12 @@ Before diving into models, it's important to understand how speech and audio sig
 ## 🗣️ Step 3: End-to-End ASR (Speech-to-Text)
 
 ### 1. Listen, Attend and Spell (LAS)
-- ➤ **Listen, Attend and Spell**  
+- ➤ [**Listen, Attend and Spell**](https://arxiv.org/pdf/1508.01211)  
 - ⏳ *Chan et al., 2015*  
 - 🎯 Attention-based encoder-decoder for ASR.
 
 ### 2. Deep Speech 2
-- ➤ **Deep Speech 2: End-to-End Speech Recognition in English and Mandarin**  
+- ➤ [**Deep Speech 2: End-to-End Speech Recognition in English and Mandarin**](https://arxiv.org/pdf/1512.02595)  
 - ⏳ *Baidu Research, 2015*  
 - 🎯 Big-data focused, robust end-to-end ASR system.
 
